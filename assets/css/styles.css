@@ -1,14 +1,14 @@
 @charset "UTF-8";
 /* CSS Document */
 @import	 url("../fonts/ionicons.min.css");
-@import url('<link rel="stylesheet" href="https://use.typekit.net/emg2jfx.css">');
-
+@import url("https://use.typekit.net/bfz2zrk.css");
+@import url("https://use.typekit.net/bfz2zrk.css");
 
 body {
 	font-family: "cambria", sans-serif;
 font-weight: 300;
 font-style: normal;
-	color: 404F3C;
+	color: #404F3C;
 }
 h1 {
 	font-family: 'GriffithGothicCond',sans-serif;
@@ -211,5 +211,9 @@ header .navbar ul li ul{
 	width: 200px;
 	background: #FFFCF4
 }
- <hr style="width:50%"> 
+.description{
+	font-family: "hwt-artz", sans-serif;
+	font-size: 65px; 
+	padding-bottom: 400px
+}
  
