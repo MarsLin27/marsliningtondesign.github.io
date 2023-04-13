@@ -1,0 +1,215 @@
+@charset "UTF-8";
+/* CSS Document */
+@import	 url("../fonts/ionicons.min.css");
+@import url('<link rel="stylesheet" href="https://use.typekit.net/emg2jfx.css">');
+
+
+body {
+	font-family: "cambria", sans-serif;
+font-weight: 300;
+font-style: normal;
+	color: 404F3C;
+}
+h1 {
+	font-family: 'GriffithGothicCond',sans-serif;
+	font-style: BOLD;
+	color: #404F3C 
+}
+
+/* Footer css */
+
+.footer-basic {
+  padding: 40px 0;
+  background-color: #E7DDCF;
+  color: #404F3C;
+}
+
+.footer-basic ul {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 0;
+	color: 
+}
+
+.footer-basic li {
+  padding: 0 10px;
+}
+
+.footer-basic ul a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+.footer-basic ul a:hover {
+  opacity: 1;
+}
+
+.footer-basic .social {
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+.footer-basic .social > a {
+  font-size: 24px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  margin: 0 8px;
+  color: inherit;FFFCF4
+  opacity: 0.75;
+}
+
+.footer-basic .social > a:hover {
+  opacity: 0.9;
+}
+
+.footer-basic .copyright {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 13px;
+  color: #FFFCF4;
+  margin-bottom: 0;
+}
+/* Image utilities */
+
+img.fill {
+	object-fit: fill;
+}
+img.contain {
+	object-fit: contain;
+}
+img.cover {
+	object-fit: cover;
+}
+img.scale-down {
+	object-fit: scale-down;
+}
+img.none {
+	object-fit: none;
+}
+img.size250, img.size300, img.size350, img.size400, img.size4by3, img.size4by5, img.size4by6, img.size600, img.size800, img.banner-full, img.banner-thin {
+	display: block;
+	width: 250px;
+	height: 250px;
+	margin: 20px auto;
+}
+img.size300 {
+	width: 300px;
+	height: 300px;
+}
+img.size350 {
+	width: 350px;
+	height: 350px;
+}
+img.size400 {
+	width: 400px;
+	height: 400px;
+}
+img.size4by3 {
+	width: 400px;
+	height: 300px;
+}
+img.size4by5 {
+	width: 400px;
+	height: 500px;
+}
+img.size4by6 {
+	width: 600px;
+	height: 400px;
+}
+img.size500 {
+	width: 500px;
+	height: 500px;
+}
+img.size600 {
+	width: 600px;
+	height: 650px;
+}
+img.size800 {
+	width: 800px;
+	height: 850px;
+}
+img.banner-full {
+	width: 100%;
+	height: 325px;
+}
+img.banner-thin {
+	width: 100%;
+	height: 250px;
+}
+img.intro-full {
+	width: 100%;
+	height: 740px;
+}
+
+/* Image positioning css*/
+
+img.p-center {
+	object-position: center;
+}
+img.p-left {
+	object-position: left;
+}
+img.p-right {
+	object-position: right;
+}
+img.p-top {
+	object-position: top;
+}
+img.p-bottom {
+	object-position: bottom;
+}
+/* nav bar customization*/
+
+.bg-dark {
+	background-color: #002F49 !important;
+}
+
+.bg-light {
+	background-color: #FFFCF4 !important;
+}
+
+.navbar-brand {
+	color: #404F3C !important;
+	font-family: 'OGriffithGothicCond',sans-serif;
+	font-size: 45px;
+}
+
+.nav-link {
+	color: #404F3C !important;
+	font-family: 'GriffithGothicCond',sans-serif;
+	font-size: 40px;
+	font-weight: 600
+}
+.background {
+	color: #404F3C 
+}
+
+}
+header .navbar ul li{
+	position: relative;
+	float: left;
+}
+
+header .navbar ul li a{
+	background: #FFFCF4;
+	color: 404F3C
+}
+
+
+header .navbar ul li ul{
+	position: absolute;
+	left:0;
+	width: 200px;
+	background: #FFFCF4
+}
+ <hr style="width:50%"> 
+ 
